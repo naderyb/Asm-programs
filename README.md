@@ -2,14 +2,6 @@
 
 Welcome to the **Assembly Programs Repository**! This collection features several programs written in **8086 Assembly Language** using the **TASM syntax**. These programs were created as part of the *Architecture des Ordinateurs* module and showcase fundamental concepts of low-level programming.
 
-## 📋 Table of Contents
-
-1. [About the Repository](#about-the-repository)
-2. [Programs Overview](#programs-overview)
-3. [Setup and Usage](#setup-and-usage)
-4. [Contributing](#contributing)
-5. [Acknowledgments](#acknowledgments)
-
 ---
 
 ## 📖 About the Repository
