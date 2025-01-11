@@ -91,7 +91,7 @@ git push origin feature/your-feature-name
 6. Open a **Pull Request** on the original repository and describe your changes.
 ---
 ## 🙏 Acknowledgments
-# A big thank you to **Mr BOUKABOU Hamid** who made this repository possible, and have been patient throughout these 3 semesters.
+### A big thank you to **Mr BOUKABOU Hamid** who made this repository possible, and have been patient throughout these 3 semesters.
 ---
 
 > **Made and created with ❤️ by [naderyb](https://github.com/naderyb) | © 2025**  
